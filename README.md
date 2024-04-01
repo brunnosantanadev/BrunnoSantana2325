@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo ao meu perfil!! <h1>
 
 - Sou estudante de Direito e Desenvolvimento de Software.
-- Atualmente trabalho na Floripark, no Setor Administrativo.
+- Atualmente trabalho no Grupo Astoria, como assesor do diretor comercial.
 - Técnico em Gestão Pública.
 
 <div align="center">
