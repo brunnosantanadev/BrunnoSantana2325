@@ -1,8 +1,9 @@
 ## Olá, seja bem vindo ao meu perfil!! <h1>
 
-- Sou estudante de Direito e Desenvolvimento de Software.
-- Atualmente trabalho no Grupo Astoria, como assessor do diretor comercial.
-- Técnico em Gestão Pública.
+- Gestor de Pessoas | Suporte Executivo | Business Inteligence | Data Analytics.
+- Atualmente trabalho no Grupo Astoria, como assessor da diretoria comercial e diretoria executiva.
+- HABILIDADES: GESTÃO DE PROJETOS | METODOLOGIAS ÁGEIS | MAPEAMENTO DE PROCESSOS | GESTÃO DE PESSOAS | NEGOCIAÇÃO E VENDAS | AGENTES DE IA
+- FERRAMENTAS: PYTHON | POWER BI | LOOKER STUDIO | FERRAMENTAS ADOBE | .
 
 <div align="center">
   <a href="https://github.com/brunnosantana">
